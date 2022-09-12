@@ -12,4 +12,5 @@ The results of the analysis shows that,
 9) Most of the countries in Africa, North American, and South American continents experience small to large sized landslides.
 
 You can view this analysis in detail by clicking on this link: https://public.tableau.com/app/profile/shruti.gaikwad4832/viz/GlobalLandslides/Story1?publish=yes
+
 or you can also read my article related to this project here : https://shruti2835.medium.com/global-landslides-analysis-using-tableau-720a5b855695
