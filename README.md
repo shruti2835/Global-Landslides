@@ -1,4 +1,4 @@
-# Global-Landslides
+# Global-Landslides Analysis Using Tableau
 In this project, I have analysed the landslides that have occurred globally. For this project, I have used the data that is available on the Nasa Open Source data portal. I have explored the triggers of landslides, countries with most landslides, fatality count by countries, fatality count based on landslide triggers in different countries, fatality count based on landslide triggers over the years (1988 to 2017), fatality count by landslide size, and fatality count by landslide size in different countries. 
 The results of the analysis shows that, 
 1) Main cause of landslides is Rainfall.
